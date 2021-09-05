@@ -1,3 +1,3 @@
 # Portfolio
 
-A personal web practice project.
+A personal project for web-developing practice.
